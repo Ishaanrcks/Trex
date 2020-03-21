@@ -69,7 +69,7 @@ function setup() {
 }
 
 function draw() {
-  trex.debug = true;
+
   background(255);
   text("Score: "+ score, 430,50);
   text("HScore: "+ score, 500,50);
